@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/allan_na" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="allan_na" height="30" width="40" /></a>
+<a href="https://twitter.com/allannandweza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="allannandweza" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nandweza-allan-054a21218?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bfknxmksuq1wfyzjvamx96w%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nandweza-allan-054a21218?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bfknxmksuq1wfyzjvamx96w%3d%3d" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15702955" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15702955" height="30" width="40" /></a>
 <a href="https://medium.com/@allannandweza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@allannandweza" height="30" width="40" /></a>
