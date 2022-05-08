@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nandweza" alt="nandweza" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/allan_na" target="blank"><img src="https://img.shields.io/twitter/follow/allan_na?logo=twitter&style=for-the-badge" alt="allan_na" /></a> </p>
+<p align="left"> <a href="https://twitter.com/allannandweza" target="blank"><img src="https://img.shields.io/twitter/follow/allannandweza?logo=twitter&style=for-the-badge" alt="allannandweza" /></a> </p>
 
 - 🔭 I’m currently working on [Building my Problem Solving skill, and Software Engineering Skills.](https://github.com/nandweza)
 
