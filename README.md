@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Nandweza Allan</h1>
-<h3 align="center">A passionate Software Engineer with self-driven interest in solving real-world problems with technology.<br>I'm an IT Officer & I do train kids IT Basics and Computer Skills(Microsoft Office, Libre Office & Kojo Programming).</h3>
-<img src="IMG_20210116_163815_8~3.jpg">
+<h3 align="center">I'm passionate about Software Engineering, Technology, Cyber Security, astronomy and Innovations. Am so much interested in solving real world problems with technolgy and my coding skills.</h3>
+<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages.wallpapersden.com%2Fimage%2Fdownload%2Fprogramming-8k-cool_bWdnbGWUmZqaraWkpJRnamtlrWZlbWU.jpg&imgrefurl=https%3A%2F%2Fwallpapersden.com%2Fprogramming-8k-cool-wallpaper%2F2560x1080%2F&tbnid=WPUyg_9KoqM2nM&vet=12ahUKEwjihMv0yMP5AhWbVfEDHcZlCw0QMygyegQIARBM..i&docid=tM4n0ml_978M3M&w=2560&h=1080&q=3d%20programming%20wallpaper&ved=2ahUKEwjihMv0yMP5AhWbVfEDHcZlCw0QMygyegQIARBM">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandweza&label=Profile%20views&color=0e75b6&style=flat" alt="nandweza" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nandweza" alt="nandweza" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/allannandweza" target="blank"><img src="https://img.shields.io/twitter/follow/allannandweza?logo=twitter&style=for-the-badge" alt="allannandweza" /></a> </p>
 
-- 🔭 I’m currently working on [Building my Problem Solving skill, and Software Engineering Skills.](https://github.com/nandweza)
+- 🔭 I’m currently working on [Building my Problem Solving skill, and Backend Engineering.](https://github.com/nandweza)
 
-- 🌱 I’m currently learning **Low Level Programming (C), High Level Programming (Python), System Engineering & Devops, Data Structure & Algorithm**
+- 🌱 I’m currently learning **Datastructure & Algorithms, Backend Engineering with Python + Nodejs**
 
-- 💬 Ask me about **Tech staffs.**
+- 💬 Ask me about **Programming, Astronomy, and Tech stuffs.**
 
-- ⚡ Fun fact **Am Humble but friendly and funny!**
+- ⚡ Fun fact **I love listening to oldies music**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
