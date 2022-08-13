@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nandweza Allan</h1>
 <h3 align="center">I'm passionate about Software Engineering, Technology, Cyber Security, astronomy and Innovations. Am so much interested in solving real world problems with technolgy and my coding skills.</h3>
-<img src="pc.jpeg">
+<img src="pc.jpeg" style="display: block; margin-left: auto; margin-right: auto; width: 50%;">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandweza&label=Profile%20views&color=0e75b6&style=flat" alt="nandweza" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nandweza" alt="nandweza" /></a> </p>
