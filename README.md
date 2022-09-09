@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/allannandweza" target="blank"><img src="https://img.shields.io/twitter/follow/allannandweza?logo=twitter&style=for-the-badge" alt="allannandweza" /></a> </p>
 
-- 🔭 I’m currently working on a [full-stack netflix clone web application](https://github.com/nandweza/AlflixVideoz.git)
+- 🔭 I’m currently working on a [full-stack video streaming web application](https://github.com/nandweza/AlflixVideoz.git)
 
 - 🌱 I’m currently learning **Datastructure & Algorithms, Backend Engineering with Python + Nodejs**
 
