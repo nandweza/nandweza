@@ -15,8 +15,7 @@
 - 💬 Ask me about **Programming, Astronomy, and Tech stuffs.**
 
 - ⚡ Fun fact **I love listening to oldies**
-- ![image](https://user-images.githubusercontent.com/63627595/195133403-f88a5343-200c-4aec-8e38-16efb5506d95.png)
-Quote: You can never understand everything. But, you should push yourself to understand the system. - Ryan Dahl (Creator of Node JS)
+- Quote: You can never understand everything. But, you should push yourself to understand the system.<br> - <span style="align: right;">Ryan Dahl (Creator of Node JS)</span>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
