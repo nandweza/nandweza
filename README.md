@@ -27,6 +27,7 @@
   <img alt="Flask" src="https://img.shields.io/badge/-Flask-43853d?style=flat-square&logo=Flask&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-43853d?style=flat-square&logo=MongoDB&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-43853d?style=flat-square&logo=MySQL&logoColor=white" />
+  <img alt="Postman" src="https://img.shields.io/badge/-Postman-43853d?style=flat-square&logo=Postman&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-43853d?style=flat-square&logo=Linux&logoColor=white" />
   <img alt="Illustrator" src="https://img.shields.io/badge/-Illustrator-43853d?style=flat-square&logo=Illustrator&logoColor=white" />
   </p>
