@@ -1,39 +1,45 @@
 <h1 align="center">Hi 👋, I'm Nandweza Allan</h1>
 <hr>
-<h3 align="center">I'm passionate about Software Engineering, Technology, Cyber Security, astronomy and Innovations. Am so much interested in solving real world problems with technolgy and my coding skills.</h3>
+<p align="left">I am passionate about Technology, Software Engineering, and solving problems. I am very committed towards my projects and my passion for Technology and Software Engineering has created love to always learn more about the new technologies of this new world. My major goal is to solve the real world problems with my software engineering skills<br>I am Currently working at Planning for Tomorrow Youth Organization as IT Officer and Trainer(IT Basics, Computer Skills, and Kojo Programming).</p>
 <hr>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nandweza&label=Profile%20views&color=0e75b6&style=flat" alt="nandweza" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nandweza" alt="nandweza" /></a> </p>
+- 🔭 I’m currently working on my portfolio & Problem Solving Skill.
 
-<p align="left"> <a href="https://twitter.com/allannandweza" target="blank"><img src="https://img.shields.io/twitter/follow/allannandweza?logo=twitter&style=for-the-badge" alt="allannandweza" /></a> </p>
-
-- 🔭 I’m currently working on a [full-stack video streaming web application](https://github.com/nandweza/AlflixVideoz.git)
-
-- 🌱 I’m currently learning **Backend Engineering, Nodejs, Python JS**
+- 🌱 I’m currently learning **Backend Engineering, Nodejs, Python JS & DSA**
 
 - 💬 Ask me about **Programming, Astronomy, and Tech stuffs.**
 
 - ⚡ Fun fact **I love listening to oldies**
 - Quote: You can never understand everything. But, you should push yourself to understand the system.<br> - <span style="align: right;">Ryan Dahl (Creator of Node JS)</span>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/allannandweza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="allannandweza" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nandweza-allan-054a21218?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bfknxmksuq1wfyzjvamx96w%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nandweza-allan-054a21218?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bfknxmksuq1wfyzjvamx96w%3d%3d" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.javascript.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://www.nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://www.express.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/> </a>
-  <a href="https://www.flask.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/> </a> 
-</p>
-
+<div align="center">
+  <p> <a href="https://twitter.com/allannandweza" target="blank"><img src="https://img.shields.io/twitter/follow/allannandweza?logo=twitter&style=for-the-badge" alt="allannandweza" /></a> </p>
+  <p>
+  <img alt="C" src="https://img.shields.io/badge/-C-46a2f1?style=flat-square&logo=c&logoColor=white" />
+  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="CSS" src="https://img.shields.io/badge/-CSS-1a73e8?style=flat-square&logo=css&logoColor=white" />
+  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-FB542B?style=flat-square&logo=python&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Express" src="https://img.shields.io/badge/-Express-43853d?style=flat-square&logo=Express.js&logoColor=white" />
+  <img alt="Flask" src="https://img.shields.io/badge/-Flask-43853d?style=flat-square&logo=Flask&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-43853d?style=flat-square&logo=MongoDB&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-43853d?style=flat-square&logo=MySQL&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-43853d?style=flat-square&logo=Linux&logoColor=white" />
+  <img alt="Illustrator" src="https://img.shields.io/badge/-Illustrator-43853d?style=flat-square&logo=Illustrator&logoColor=white" />
+  </p>
+  <p> 
+  <a href="https://twitter.com/allannandweza" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
+  <a href="https://www.linkedin.com/in/nandweza-allan-054a21218/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+  <a href="https://medium.com/@allannandweza" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+  </p>
+ </div>
+<div dispaly="inline">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nandweza&show_icons=true&locale=en&layout=compact" alt="nandweza" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nandweza&show_icons=true&locale=en" alt="nandweza" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nandweza&" alt="nandweza" /></p>
+  </div>
