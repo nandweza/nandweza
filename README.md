@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nandweza Allan</h1>
-<hr>
+<!--<hr>
 <p align="left">I am passionate about Technology, Software Engineering, and solving problems. I am very committed towards my projects and my passion for Technology and Software Engineering has created love to always learn more about the new technologies of this new world. My major goal is to solve the real world problems with my software engineering skills<br>I am Currently working at Planning for Tomorrow Youth Organization as IT Officer and Trainer(IT Basics, Computer Skills, and Kojo Programming).</p>
-<hr>
+<hr>-->
 
 - 🔭 I’m currently working on my portfolio & Problem Solving Skill.
 
@@ -12,7 +12,7 @@
 - ⚡ Fun fact **I love listening to oldies**
 - Quote: You can never understand everything. But, you should push yourself to understand the system.<br> - <span style="align: right;">Ryan Dahl (Creator of Node JS)</span>
 <div align="center">
-  <p> <a href="https://twitter.com/allannandweza" target="blank"><img src="https://img.shields.io/twitter/follow/allannandweza?logo=twitter&style=for-the-badge" alt="allannandweza" /></a> </p>
+ <!-- <p> <a href="https://twitter.com/allannandweza" target="blank"><img src="https://img.shields.io/twitter/follow/allannandweza?logo=twitter&style=for-the-badge" alt="allannandweza" /></a> </p>-->
   <p>
   <img alt="C" src="https://img.shields.io/badge/-C-46a2f1?style=flat-square&logo=c&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
@@ -37,10 +37,10 @@
   <a href="https://medium.com/@allannandweza" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
   </p>
  </div>
-<div dispaly="inline">
+<!--<div dispaly="inline">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nandweza&show_icons=true&locale=en&layout=compact" alt="nandweza" /></p>
 <br>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=nandweza&show_icons=true&locale=en" alt="nandweza" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nandweza&" alt="nandweza" /></p>
-</div>
+</div>-->
