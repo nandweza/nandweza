@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Go-UseTech** a full stack web app & Problem Solving Skill.
 
-- 🌱 I’m currently learning **React**, **Wordpress**
+- 🌱 I’m currently learning **React**, **Wordpress**, **BlockChain tech**
 
 - 💬 Ask me about **Programming, Astronomy, and Tech stuffs.**
 
