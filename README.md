@@ -3,9 +3,9 @@
 <p align="left">I am passionate about Technology, Software Engineering, and solving problems. I am very committed towards my projects and my passion for Technology and Software Engineering has created love to always learn more about the new technologies of this new world. My major goal is to solve the real world problems with my software engineering skills<br>I am Currently working at Planning for Tomorrow Youth Organization as IT Officer and Trainer(IT Basics, Computer Skills, and Kojo Programming).</p>
 <hr>-->
 
-- 🔭 I’m currently working on **Go-UseTech** a full stack web app & Problem Solving Skill.
+- 🔭 I’m currently working on **Go-UseTech, oftac** full stack web apps & Problem Solving Skill.
 
-- 🌱 I’m currently learning **React**, **Wordpress**, **BlockChain tech**
+- 🌱 I’m currently learning **React**, **Wordpress**, **Typescript**
 
 - 💬 Ask me about **Programming, Astronomy, and Tech stuffs.**
 
