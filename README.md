@@ -3,13 +3,13 @@
 <p align="left">I am passionate about Technology, Software Engineering, and solving problems. I am very committed towards my projects and my passion for Technology and Software Engineering has created love to always learn more about the new technologies of this new world. My major goal is to solve the real world problems with my software engineering skills<br>I am Currently working at Planning for Tomorrow Youth Organization as IT Officer and Trainer(IT Basics, Computer Skills, and Kojo Programming).</p>
 <hr>-->
 
-- 🔭 I’m currently working on **<a href='https://gousetech.com/' target='_blank'>Go-UseTech</a>, <a href='https://oftac-ug.org/' target='_blank'>oftac</a> & <a href='https://p4t.onrender.com' target='_blank'>P4T</a>** full stack web apps & Problem Solving Skill.
+- 🔭 I’m currently working on **<a href='https://gousetech.com/' target='_blank'>Go-UseTech</a>, <a href='https://oftac-ug.org/' target='_blank'>oftac</a> & <a href='https://p4t.onrender.com' target='_blank'>P4T</a>** full stack web apps.
 
-- 🌱 I’m currently learning **React**, **Wordpress**, **Typescript**
+- 🌱 I’m currently learning **React**, **Typescript**
 
-- 💬 Ask me about **Programming, Astronomy, and Tech stuffs.**
+- 💬 Ask me about **Programming, and Tech stuffs.**
 
-- ⚡ Fun fact **I love listening to oldies**
+- ⚡ Fun fact **I love solving complex tasks**
 - Quote: You can never understand everything. But, you should push yourself to understand the system.<br> - <span style="align: right;">Ryan Dahl (Creator of Node JS)</span>
 <div align="center">
  <!-- <p> <a href="https://twitter.com/allannandweza" target="blank"><img src="https://img.shields.io/twitter/follow/allannandweza?logo=twitter&style=for-the-badge" alt="allannandweza" /></a> </p>-->
