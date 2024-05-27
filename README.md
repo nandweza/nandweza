@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **<a href='https://humanitarianservicesaction.org/' target='_blank'>Go-UseTech</a>, <a href='https://oftac-ug.org/' target='_blank'>oftac</a> & <a href='https://p4t.onrender.com' target='_blank'>P4T</a>** full stack web apps.
 
-- 🌱 I’m currently learning **React**, **Typescript**
+- 🌱 I’m currently learning and improving my **tech skills**
 
 - 💬 Ask me about **Programming, and Tech stuffs.**
 
