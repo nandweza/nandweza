@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nandweza Allan Kindarara.</h1>
+<h1 align="center">Hi 👋, I'm Nandweza (Allan) Kindarara.</h1>
 <!--<hr>
 <p align="left">I am passionate about Technology, Cyber Security Artificial Intelligency, and solving problems. I am very committed towards my projects and my passion for Technology has created love to always learn more about the new technologies of this new world. My major goal is to solve the real world problems with my tech skills.</p>
 <hr>-->
