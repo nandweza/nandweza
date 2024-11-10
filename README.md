@@ -3,7 +3,7 @@
 <p align="left">I am passionate about Technology, Cyber Security Artificial Intelligency, and solving problems. I am very committed towards my projects and my passion for Technology has created love to always learn more about the new technologies of this new world. My major goal is to solve the real world problems with my tech skills.</p>
 <hr>-->
 
-- 🔭 I’m currently working on **<a href='https://humanitarianservicesaction.org/' target='_blank'>Go-UseTech</a>, <a href='https://oftac-ug.org/' target='_blank'>oftac</a> & <a href='https://p4t.onrender.com' target='_blank'>P4T</a>** full stack web apps.
+- 🔭 I’m currently working on **<a href='https://humanitarianservicesaction.org/' target='_blank'>HuSA</a>, <a href='https://oftac-ug.org/' target='_blank'>oftac</a> & <a href='https://p4t.onrender.com' target='_blank'>P4T</a>** full stack web apps.
 
 - 🌱 I’m currently learning and improving my **tech skills**
 
