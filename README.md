@@ -5,12 +5,12 @@
 
 - 🔭 I’m currently working on **myself**.
 
-- 🌱 I’m currently a CS student at ``**<a href="https://cwi.edu/" target="_blank">College of Western Idaho</a>**``
+- 🌱 I’m currently a CS student at [`College of Western Idaho`](https://cwi.edu/)
 
-- 💬 Ask me about **Programming, Math, Astronomy, and Tech.**
+- 💬 Ask me about **Programming, Math, Astronomy, Technology, and Life.**
 
 - ⚡ Fun fact **I love exploring new places**
-- Quote: You can never understand everything. But, you should push yourself to understand the system.<br> - <span style="align: right;">Ryan Dahl (Creator of Node JS)</span>
+- 💬: The only time you have is to do what you are supposed to do!!!
 <div align="center">
  <!-- <p> <a href="https://twitter.com/allannandweza" target="blank"><img src="https://img.shields.io/twitter/follow/allannandweza?logo=twitter&style=for-the-badge" alt="allannandweza" /></a> </p>-->
   <p>
