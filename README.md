@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nandweza (Allan) Kindarara.</h1>
 <!--<hr>
-<p align="left">I am passionate about Technology, Cyber Security Artificial Intelligency, and solving problems. I am very committed towards my projects and my passion for Technology has created love to always learn more about the new technologies of this new world. My major goal is to solve the real world problems with my tech skills.</p>
+<p align="left">I am passionate about Technology, Cyber Security, Artificial Intelligency, and solving problems. I am very committed towards my projects and my passion for Technology has created love to always learn more about the new technologies of this new world. My major goal is to solve the real world problems with my tech skills.</p>
 <hr>-->
 
-- 🔭 I’m currently working on **<a href='https://humanitarianservicesaction.org/' target='_blank'>HuSA</a>, <a href='https://oftac-ug.org/' target='_blank'>oftac</a> & <a href='https://p4t.onrender.com' target='_blank'>P4T</a>** full stack web apps.
+- 🔭 I’m currently working on **myself**.
 
-- 🌱 I’m currently learning and improving my **tech skills**
+- 🌱 I’m currently a CS student at ``**<a href="https://cwi.edu/" target="_blank">College of Western Idaho</a>**``
 
-- 💬 Ask me about **Programming, and Tech stuffs.**
+- 💬 Ask me about **Programming, Math, Astronomy, and Tech.**
 
 - ⚡ Fun fact **I love exploring new places**
 - Quote: You can never understand everything. But, you should push yourself to understand the system.<br> - <span style="align: right;">Ryan Dahl (Creator of Node JS)</span>
