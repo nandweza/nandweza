@@ -56,8 +56,8 @@ I’m actively seeking opportunities to contribute to open-source projects in we
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: [Connect with me](https://www.linkedin.com/in/nandwezaallan/)  
-- Portfolio: [My Portfolio](https://nandweza.github.io/allan/)  
+- LinkedIn: [Let's connect](https://www.linkedin.com/in/nandwezaallan/)  
+- Portfolio: [Migration Hub](https://nandweza.github.io/allan/)  
 - Email: allannandweza@gmail.com  
 
 ---
