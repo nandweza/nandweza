@@ -12,7 +12,7 @@
 ## 🛠️ Skills & Tools
 
 **Languages:** `Python`, `JavaScript/TypeScript`, `C`, `Java`  
-**Web Development:** `React`, `Node.js`, `Express`, `HTML/CSS`  
+**Web Development:** `React`, `NodeJS`, `ExpressJS`, `HTML/CSS`  
 **Databases:** `MySQL`, `MongoDB`  
 **Tools & Platforms:** `Git`, `Linux`, `Docker`, `GitHub Actions`  
 **Special Interests:** `Machine Learning`, `Cybersecurity`, `Algorithms`  
@@ -28,22 +28,17 @@
 - **[OFTAC Backend](https://github.com/nandweza/oftac-backend)**  
   🔗 TypeScript + Express API to power the OFTAC frontend.  
   - Designed endpoints for data handling.  
-  - Secure routing and error handling.  
+  - Secure routing and error handling. 
 
-- **[Contact API](https://github.com/nandweza/contact-api)**  
-  📡 Backend API for form handling and submissions.  
-  - Node.js + Express.  
-  - Includes validation, error handling, and secure endpoints.  
-
-- **[Portfolio Website](https://github.com/nandweza/allan)**  
-  🎨 Personal portfolio built with HTML/CSS.  
+- **[Portfolio Website](https://github.com/nandweza/portfolio.git)**  
+  🎨 Personal portfolio built with React, Bootstrap, and CSS.  
   - Responsive design.  
-  - Deployed via GitHub Pages.  
+  - Deployed via GitHub Pages.
 
 ---
 
 ## 📚 Currently Learning
-- Data Structures & Algorithms (LeetCode + coursework).  
+- .  
 - Full-stack development.  
 <!--- Intro Machine Learning projects with Python (Scikit-learn, TensorFlow).  
 - Cybersecurity basics (TryHackMe labs, CTFs).-->  
@@ -57,7 +52,7 @@ I’m actively seeking opportunities to contribute to open-source projects in we
 
 ## 📫 Connect With Me
 - LinkedIn: [Let's connect](https://www.linkedin.com/in/nandwezaallan/)  
-- Portfolio: [Migration Hub](https://nandweza.github.io/allan/)  
+- Portfolio: [Migration Hub](https://allannandweza.dev/)  
 - Email: allannandweza@gmail.com  
 
 ---
