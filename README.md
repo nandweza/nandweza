@@ -38,8 +38,9 @@
 ---
 
 ## 📚 Currently Learning
-- .  
-- Full-stack development.  
+- Computer Science II (Java Foundations)
+- Full-stack Web development.
+- Web Designing
 <!--- Intro Machine Learning projects with Python (Scikit-learn, TensorFlow).  
 - Cybersecurity basics (TryHackMe labs, CTFs).-->  
 
