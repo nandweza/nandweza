@@ -11,11 +11,11 @@
 
 ## 🛠️ Skills & Tools
 
-**Languages:** `Python`, `JavaScript/TypeScript`, `C`, `Java`  
-**Web Development:** `React`, `NodeJS`, `ExpressJS`, `HTML/CSS`  
+**Languages:** `Java`, `Python`, `JavaScript/TypeScript`  
+**Web Development:** `HTML/CSS`, `React`, `NodeJS`, `ExpressJS` 
 **Databases:** `MySQL`, `MongoDB`  
-**Tools & Platforms:** `Git`, `Linux`, `Docker`, `GitHub Actions`  
-**Special Interests:** `Machine Learning`, `Cybersecurity`, `Algorithms`  
+**Tools & Platforms:** `Git`, `Linux`, `Docker`  
+**Interests:** `Machine Learning`, `Cybersecurity`, `Space Technology` 
 
 ---
 ## 📌 Featured Projects
@@ -30,15 +30,15 @@
   - Designed endpoints for data handling.  
   - Secure routing and error handling. 
 
-- **[Portfolio Website](https://github.com/nandweza/portfolio.git)**  
-  🎨 Personal portfolio built with React, Bootstrap, and CSS.  
+- **[Portfolio Web App](https://allannandweza.dev/)**  
+  🎨 Personal portfolio built with React, Bootstrap, CSS, NodeJs, ExpressJs, MongoDB.  
   - Responsive design.  
   - Deployed via GitHub Pages.
 
 ---
 
 ## 📚 Currently Learning
-- Computer Science II (Java Foundations)
+- Java
 - Full-stack Web development.
 - Web Designing
 <!--- Intro Machine Learning projects with Python (Scikit-learn, TensorFlow).  
@@ -53,7 +53,6 @@ I’m actively seeking opportunities to contribute to open-source projects in we
 
 ## 📫 Connect With Me
 - LinkedIn: [Let's connect](https://www.linkedin.com/in/nandwezaallan/)  
-- Portfolio: [Migration Hub](https://allannandweza.dev/)  
-- Email: allannandweza@gmail.com  
+- Portfolio: [My Portfolio](https://allannandweza.dev/)  
 
 ---
