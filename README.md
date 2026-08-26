@@ -3,9 +3,9 @@
 <p align="left">I am passionate about Technology, Cyber Security, Artificial Intelligency, and solving problems. I am very committed towards my projects and my passion for Technology has created love to always learn more about the new technologies of this new world. My major goal is to solve the real world problems with my tech skills.</p>
 <hr>-->
 
-🎓 Sophomore in Computer Science – completing my Associate in Spring 2026 at [`CWI`](https://cwi.edu/), then continuing toward my Bachelor’s at Boise State.  
+🎓 Computer Science student at [`Boise State University`](https://boisestate.edu/).  
 💻 Aspiring **Software Engineer** with interests in **Machine Learning** & **Cybersecurity**.  
-🚀 I enjoy building full-stack applications, APIs, and exploring applied AI projects.  
+🚀 I enjoy building full-stack applications, APIs, and exploring AI.  
 
 ---
 
@@ -38,11 +38,9 @@
 ---
 
 ## 📚 Currently Learning
-- Java
+- Software Development in C
 - Full-stack Web development.
-- Web Designing
-<!--- Intro Machine Learning projects with Python (Scikit-learn, TensorFlow).  
-- Cybersecurity basics (TryHackMe labs, CTFs).-->  
+- Foundations of Data Science  
 
 ---
 
